@@ -1,0 +1,43 @@
+.badge {
+    background-color: #5222D0;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.card-title {
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.card-text {
+    width: 85%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.nav-link {
+    color: #5222D0;
+}
+
+.main-text {
+    text-transform: uppercase;
+    margin-top: 5%;
+}
+
+.card-bottom {
+    margin-top: -2%;
+    margin-left: -3%;
+    margin-right: 5%;
+}
+
+.card-bottom-right {
+    background-color: #EC615B;
+}
+
+.button-bottom {
+    margin-top: 10%;
+}
+
+.nav-link-bottom {
+    margin-top: 5%;
+}
